@@ -71,7 +71,7 @@ Si desean experimentar con los **algoritmos de búsqueda informada**, necesitar�
  
 Ahora que ya tienen las herramientas necesarias, es momento de realizar la **evaluación práctica**. Asegúrense de leer detenidamente el enunciado y no duden en plantear cualquier inquietud en el **foro**.
 
-- 📝 Evaluación práctica - Módulo 2 - Torre de Hanoi 🔒 *(Solo en Campus Virtual)*
+- 📝 [Evaluación práctica - Módulo 2 - Torre de Hanoi](./exercise/README.md)
 
 Recuerden que el código que les puede servir para realizar la evaluación está en el repositorio.
 
